@@ -1,4 +1,4 @@
-# URL Shortener
+# Shorten it
 
 A full-stack URL shortener built with FastAPI that allows users to create short links, set expiration dates, and view analytics with charts.
 
